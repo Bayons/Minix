@@ -1,0 +1,19 @@
+% -> Va a la correspondiente llave
+Xdd -> borra X lineas
+u -> deshacer
+/asdf -> busca "asdf"
+10yy -> copia las 10 lineas siguientes a partir de la que esta el puntero
+p -> pega la/s linea/s
+i -> entrar en modo insercion
+a -> entrar en modo escritura normal
+u -> entrar en modo ??
+:X -> va a la linea X:
+
+home:*:9:3:Miguel:/usr/home:/usr/bin/ash
+	1º: nombre del usuario
+	2º: contraseña
+	3º: UID
+	4º: GID
+	5º: GECOS
+	6º: direccion
+	7º: shell por defecto
