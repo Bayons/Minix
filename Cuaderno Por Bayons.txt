@@ -1,0 +1,1 @@
+En el fichero practicaC.c hacemos que, al recibir tres argumentos, los envie con taskcall mediante el mensaje y el sistema haga lo que hemos  escrito hasta ahora. Nos da un par de errores de sintaxis y nos faltan incluir bibliotecas, pero lo solucionamos en seguida.
