@@ -1,7 +1,7 @@
 % -> Va a la correspondiente llave
 Xdd -> borra X lineas
 u -> deshacer
-/asdf -> busca "asdf"
+/asdf -> busca "asdf" (si pulsas n va al siguiente asdf)
 10yy -> copia las 10 lineas siguientes a partir de la que esta el puntero
 p -> pega la/s linea/s
 i -> entrar en modo insercion
