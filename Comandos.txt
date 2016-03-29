@@ -17,3 +17,7 @@ home:*:9:3:Miguel:/usr/home:/usr/bin/ash
 	5º: GECOS
 	6º: direccion
 	7º: shell por defecto
+
+
+Compilar el nucleo: /usr/src/tools make hdboot
+
